@@ -5,6 +5,8 @@
 # command-line scripts:
 # $ python3 hello_world.py
 
-print("Hello, Python World!")
+message = "Hello, Python World!"
+
+print(message)
 
 
